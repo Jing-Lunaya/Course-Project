@@ -1,7 +1,7 @@
 # Course-project
-01 Personal blog page
-at dir 01-u-Blog
-link to
+### Personal blog page
+- at dir 01-u-Blog
+- link to
 https://jing-lunaya.github.io/Study-Project/01-u-blog/index.html
 
 ### learned many lessons through out.
