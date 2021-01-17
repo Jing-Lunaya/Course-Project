@@ -4,7 +4,7 @@ at dir 01-u-Blog
 link to
 https://jing-lunaya.github.io/Study-Project/01-u-blog/index.html
 
-###learned many lessons through out.
+### learned many lessons through out.
 1. using margin and padding to adjust distance,
 
 2. grid to structure whole page, and flex to define in detailed small div
