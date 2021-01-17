@@ -24,6 +24,8 @@ css: more effects. nav bar, img, forum button etc.
 next: Javascript.
 
 
+17Jan2021
+
 # Course-Project
 Udacity's course project
 This is the web blog project:
