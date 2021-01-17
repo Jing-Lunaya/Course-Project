@@ -1,0 +1,124 @@
+.main-post-header {
+    display: grid;
+		/* background-color: #fff; */
+    background-image: url(../img/creativity.jpg);
+    background-position: bottom;
+    background-size: cover;
+		background-blend-mode: overlay;
+    color: #fff;
+    line-height: 1.2;
+    padding: 6.75em 0;
+}
+
+.main-post-header > * {
+    grid-column: 2 / -2;
+		margin: 0;
+}
+
+
+.post-header-btn{
+	color: #E1827E;
+}
+
+.post-header-btn {
+    display:flex;
+    font-weight: 700;
+    margin-bottom: .5em;
+    background-color: #E1827E;
+		justify-self: center;
+    color: #fff;
+    padding: .5em 1.75em;
+		text-transform: uppercase;
+		font-size: .625rem;
+
+}
+.main-post-header p {
+	color: #E1827E;
+	justify-self: center;
+	text-transform: uppercase;
+	/* font-weight: 700; */
+	letter-spacing: 1.5px;
+}
+
+.main-post-header h1 {
+	text-align: center;
+	padding: .625em 0;
+}
+
+
+.main-post-content {
+		padding:1.25em 1.25em;
+}
+
+@media (min-width:751px) {
+	.main-post-content {
+		font-size:1.3em;
+	}
+	.main-post-content h2 {
+		font-size: 1.5em;
+	}
+
+	.main-post-header h1 {
+		font-size:1.7em;
+	}
+
+}
+
+
+.main-author-img-radius{
+	border-radius:50%;
+	width:20%;
+	height:auto;
+
+}
+@media (min-width:751px) {
+
+	.main-author{
+		display:flex;
+		flex-direction: row;
+		align-items: center;
+    justify-content: center;
+	}
+
+	.main-author-info {
+		margin: 1em 1em;
+	}
+
+	.main-author-info p {
+		font-size:.8rem;
+	}
+
+	.main-author-info h2 {
+		font-size: .9rem;
+	}
+
+
+
+	.footer-contact {
+		grid-column: 2 / span 1;
+		justify-items: start;
+	}
+
+	.footer-subscribe {
+		grid-column:  3 / span 1;
+		justify-items: end;
+		/* padding-left: 5em; */
+
+	}
+
+}
+
+.main-post-content-block {
+    background-color: #E07774;
+    color:#fff;
+    border-radius: 10px;
+    padding: 3%;
+		margin: 1.5em 0;
+}
+
+
+
+.main-post-content-center p{
+	font-size:1.2rem;
+	line-height: 1.7;
+}
