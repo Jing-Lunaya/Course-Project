@@ -11,7 +11,7 @@ https://jing-lunaya.github.io/Study-Project/01-u-blog/index.html
 
 3. set main typography first, structure 2nd, then move into detailed components
 
-4. use media query to make size responsible, use metatag viewport devicee-width to make the page readable in both computer and mobile devicees
+4. use media query to make size responsive, use metatag viewport device-width to make the page readable in both computer and mobile devicees
 
 
 5. others, shell ,commend line, git ......
