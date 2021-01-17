@@ -54,6 +54,9 @@
 }
 
 
-    .footer-contact .social-link {
-        font-size: 1.75rem;
-    }
+.footer-contact .social-link {
+        font-size: 1.35rem;
+}
+
+
+/* font size for mobile devices */
